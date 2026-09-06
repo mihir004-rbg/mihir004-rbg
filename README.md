@@ -43,6 +43,13 @@
 
 👉 Check it out: [`absence-agent`](https://github.com/mihir004-rbg/absence-agent)
 
+### 📱 Featured project: **Agent Bot**
+
+> My personal Telegram agent — I text it project ideas, it manages this very
+> profile, tracks my tasks, and chats back. Also running 24/7 on GitHub Actions.
+
+👉 Check it out: [`agent-bot`](https://github.com/mihir004-rbg/agent-bot)
+
 ---
 
 ### 🛠️ Currently learning
