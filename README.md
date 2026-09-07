@@ -50,6 +50,19 @@
 
 👉 Check it out: [`agent-bot`](https://github.com/mihir004-rbg/agent-bot)
 
+### 🌡️ Featured project: **EnviroSense**
+
+> ESP32 air quality & climate monitor — DHT22 + MQ-135 sensors streaming to a
+> Python live dashboard, with a simulator mode so it demos without any hardware.
+
+| Sensor | Reads |
+|---|---|
+| 🌡️ DHT22 | Temperature + humidity |
+| 💨 MQ-135 | Air quality (CO2/benzene) |
+| 📊 Flask + Chart.js | Live dashboard, SQLite history |
+
+👉 Check it out: [`envirosense-esp32`](https://github.com/mihir004-rbg/envirosense-esp32)
+
 ---
 
 ### 🛠️ Currently learning
