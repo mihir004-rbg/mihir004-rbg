@@ -63,6 +63,21 @@
 
 👉 Check it out: [`envirosense-esp32`](https://github.com/mihir004-rbg/envirosense-esp32)
 
+### 🛡️ Featured project: **ScamRadar**
+
+> India's Hinglish scam-message analyzer — paste any suspicious SMS/forward,
+> get a risk score against 20+ live Indian scam patterns (digital arrest,
+> courier-drugs, KYC cut-off, UPI QR traps...), a plain-Hinglish explanation
+> your family understands, and an auto-drafted cybercrime.gov.in complaint.
+
+| Layer | What |
+|---|---|
+| 🧠 Rule engine | 20+ scam families, risk 0-100, unit-tested |
+| 🗣️ Hinglish explainer | Optional Groq LLM, works offline |
+| 📝 Complaint drafter | cybercrime.gov.in / 1930-ready text |
+
+👉 Check it out: [`scam-radar`](https://github.com/mihir004-rbg/scam-radar)
+
 ---
 
 ### 🛠️ Currently learning
